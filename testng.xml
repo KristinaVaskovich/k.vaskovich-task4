@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSLTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/projects_java/k.vaskovich-task4/k.vaskovich-task4/Framework/src/test/java"><classes><class name="tests.TestHerokuappCom"><methods><include name="authorizationTest"/><include name="alertsTest"/><include name="sliderTest"/><include name="hoversPageTest"/><include name="frameTest"/></methods></class></classes></test></suite>
