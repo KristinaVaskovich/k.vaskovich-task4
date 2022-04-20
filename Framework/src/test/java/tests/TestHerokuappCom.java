@@ -31,6 +31,7 @@ public class TestHerokuappCom extends BaseTest {
     private static String enteredTextToAlert = "Hello!";
 
     @Test
+    @Ignore
     public void authorizationTest() {
         BasicAuthorizationPage basicAuthorizationPage = new BasicAuthorizationPage();
         logger.info("start authorizationTest");
